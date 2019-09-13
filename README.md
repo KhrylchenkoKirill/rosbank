@@ -1,4 +1,4 @@
-# Rosbank
+# Rosbank, 2nd place solution. (1st place task 1, 2nd place task 2)
 Rosbank ML competition.
 
 Здесь приводятся основные элементы обработки данных, дающие 1-е место по первой задаче и 2-е место по второй.
