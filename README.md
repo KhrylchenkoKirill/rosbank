@@ -19,4 +19,4 @@
 
 * [mcc.money.ipynb](https://github.com/KhrylchenkoKirill/rosbank/mcc.money.ipynb) - обработка денег с учетом МСС-кодов
 
-файлы [handcrafted_mcc_features.npy](https://github.com/KhrylchenkoKirill/rosbank/handcrafted_mcc_features.npy) и [mcc_codes.npy](https://github.com/KhrylchenkoKirill/rosbank/mcc_codes.npy) содержат информацию об мсс кодах. Первый словарь получен частично с помощью тематического моделирования, частично вручную. Второй массив - данные с сайта mcc-codes.ru. Это словари. Открывать с помощью np.load(путь к файлу).item()
+Файлы [handcrafted_mcc_features.npy](https://github.com/KhrylchenkoKirill/rosbank/handcrafted_mcc_features.npy) и [mcc_codes.npy](https://github.com/KhrylchenkoKirill/rosbank/mcc_codes.npy) содержат информацию об мсс кодах. Первый словарь получен частично с помощью тематического моделирования, частично вручную. Второй массив - данные с сайта mcc-codes.ru. Это словари. Открывать с помощью np.load(путь к файлу).item()
