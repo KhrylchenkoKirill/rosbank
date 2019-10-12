@@ -1,5 +1,7 @@
-# Rosbank, 2nd place solution. (1st place task 1, 2nd place task 2)
-## Rosbank ML competition.
+# Rosbank ML Competition
+### 2nd place solution
+* 1'st task: 1'st place
+* 2'nd task: 2'nd place
 
 Здесь приводятся основные элементы обработки данных, дающие 1-е место по первой задаче и 2-е место по второй.
 
